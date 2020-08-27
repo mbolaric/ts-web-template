@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "moduleResolution": "classic",
+        "noImplicitAny": true,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "target": "es5",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "declaration": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"strictNullChecks": true,
+		"noImplicitThis": true,
+        "outDir": "../out",
+        "strict": true,
+        "typeRoots": [
+            "typings",
+            "../node_modules/@types"
+        ]
+    }
+}

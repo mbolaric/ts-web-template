@@ -1,0 +1,6 @@
+/out/
+/out-app/
+/out-build/
+/.build/
+/node_modules/
+/npm-debug.log
